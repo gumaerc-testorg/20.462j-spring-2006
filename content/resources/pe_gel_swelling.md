@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 4.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-462j-molecular-principles-of-biomaterials-spring-2006/315b1ea11cfabebeaed1a9307577b225_pe_gel_swelling.xls
+file: /media/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/315b1ea11cfabebeaed1a9307577b225_pe_gel_swelling.xls
 file_type: application/msword
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: pe_gel_swelling.xls
 uid: 315b1ea1-1cfa-bebe-aed1-a9307577b225

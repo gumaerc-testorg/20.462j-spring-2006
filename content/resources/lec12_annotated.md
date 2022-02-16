@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource provides notes on topics such as enzymatic recognition
   of biomaterials, and cytokine signaling from biomaterials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-462j-molecular-principles-of-biomaterials-spring-2006/6c782bb5183558b7c656411cb9da7f01_lec12_annotated.pdf
+file: /media/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/6c782bb5183558b7c656411cb9da7f01_lec12_annotated.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec12_annotated.pdf
 uid: 6c782bb5-1835-58b7-c656-411cb9da7f01
