@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 588bf044-655b-8b76-317c-330ce5599abf
 resourcetype: Document
 title: BE462_S06_lect22class.pdf
 uid: 2aaa434f-6447-28d1-8232-1d85e9cbcefd
