@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/a2db0a43f4ccd1f0d076031e5b3082f8_BE462_S06_lect24annotated.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/a2db0a43f4ccd1f0d076031e5b3082f8_BE462_S06_lect24annotated.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

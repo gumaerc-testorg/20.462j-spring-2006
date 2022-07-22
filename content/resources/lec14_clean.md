@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains notes on topics like introduction to biomineralization
   and biomimectic inorganic/organic composites and Interfacial biomineralization.
-file: /media/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/6c75a4c27308316d085fb712c09ff368_lec14_clean.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/6c75a4c27308316d085fb712c09ff368_lec14_clean.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,3 +15,4 @@ resourcetype: Document
 title: lec14_clean.pdf
 uid: 6c75a4c2-7308-316d-085f-b712c09ff368
 ---
+This resource contains notes on topics like introduction to biomineralization and biomimectic inorganic/organic composites and Interfacial biomineralization.
