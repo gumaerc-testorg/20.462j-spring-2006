@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides solutions to the problem set on swollen hydrogels.
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/691bbdd8eb28e54b168e9fe29e045108_pset3_solns.pdf
+file_size: 700758
 file_type: application/pdf
 learning_resource_types:
 - Assignments

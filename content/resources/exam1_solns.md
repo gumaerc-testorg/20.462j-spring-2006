@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides model solutions for the exam 1 paper.
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/7cf3108d1fa70d28d9cafe1549f657a3_exam1_solns.pdf
+file_size: 203932
 file_type: application/pdf
 learning_resource_types:
 - Exams

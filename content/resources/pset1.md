@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides 3 problems on topics such as G?pferich erosion
   theory, in vitro degradation, and chemical and schematic structures of poly(L-lactide).
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/28315ec10f956448cfa0e2a81f785156_pset1.pdf
+file_size: 151656
 file_type: application/pdf
 learning_resource_types:
 - Assignments

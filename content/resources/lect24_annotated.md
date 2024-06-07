@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains notes for topics like Delivering activation signals
   to dendriticcells in vaccines.
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/a8a47d7f8d1c0aa79116c908e3e35c9e_lect24_annotated.pdf
+file_size: 4904198
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

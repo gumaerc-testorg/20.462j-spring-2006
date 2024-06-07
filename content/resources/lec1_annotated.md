@@ -5,6 +5,7 @@ description: This resource provides lecture notes on topics such as current appr
   chemistry and physical chemistry of hydrolysis, links between materials structure
   and hydrolysis mechanisms.
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/8c9a81ad742e118e4594e5f46f1c5b68_lec1_annotated.pdf
+file_size: 1757989
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
