@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains notes for topics like DNA vaccination.
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/f5a92eeec44f079acbae3f9ee773ae25_lect22_class.pdf
+file_size: 697381
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

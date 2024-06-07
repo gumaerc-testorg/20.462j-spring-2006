@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/35048cc845ef65e54340c21d15566e32_lect17_class.pdf
+file_size: 1565246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'This resource provides notes on topics such as biological recognit
   in vivo, protein-resistant and cell-resistant surfaces, engineering recognition
   of biomaterials: adhesion and migration.'
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/c5fc9ebb763caa64f2c6c72ba9adcbb5_lec11_annotated.pdf
+file_size: 1934268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

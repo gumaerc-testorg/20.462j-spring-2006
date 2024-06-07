@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains notes for topics like Targeting particles/molecules
   to cells and Delivering activation signals to dendriticcells in vaccines.
 file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/b0f9970f7992fa29757e7fc185f2e9b6_lect23_clean.pdf
+file_size: 2974655
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
