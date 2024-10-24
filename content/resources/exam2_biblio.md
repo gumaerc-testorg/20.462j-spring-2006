@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides the references for the take-home exam 2 paper.
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/295f62c6886f00ac632f9ecfac799a5c_exam2_biblio.pdf
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/295f62c6886f00ac632f9ecfac799a5c_exam2_biblio.pdf
 file_size: 39563
 file_type: application/pdf
 learning_resource_types:
