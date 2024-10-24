@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes for topics mimicking bone structure/assembly
   and bio/synthetic hybrid molecular devices.
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/e3a455e287090a4e8696acf04a3f6cfa_lect16_annotated.pdf
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/e3a455e287090a4e8696acf04a3f6cfa_lect16_annotated.pdf
 file_size: 2353867
 file_type: application/pdf
 learning_resource_types:
