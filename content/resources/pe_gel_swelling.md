@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 4.
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/315b1ea11cfabebeaed1a9307577b225_pe_gel_swelling.xls
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/315b1ea11cfabebeaed1a9307577b225_pe_gel_swelling.xls
 file_size: 258048
 file_type: application/msword
 learning_resource_types:
