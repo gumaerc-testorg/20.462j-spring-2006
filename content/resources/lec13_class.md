@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/f684f496a77c9ebe131871b1ba3fdfe6_lec13_class.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/f684f496a77c9ebe131871b1ba3fdfe6_lec13_class.pdf
 file_size: 3544968
 file_type: application/pdf
 learning_resource_types:

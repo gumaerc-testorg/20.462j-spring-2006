@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides problems on topic of physical hydrogels.
-file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/dee38852ce55235e9d309f4f549148e6_pset4.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/dee38852ce55235e9d309f4f549148e6_pset4.pdf
 file_size: 97244
 file_type: application/pdf
 learning_resource_types:
