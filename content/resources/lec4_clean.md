@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides notes on topics such as theory of drug release
   in eroding systems.
-file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/ef4712a1c4c5ee915ff639a8d0d2a87a_lec4_clean.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/ef4712a1c4c5ee915ff639a8d0d2a87a_lec4_clean.pdf
 file_size: 382989
 file_type: application/pdf
 learning_resource_types:
