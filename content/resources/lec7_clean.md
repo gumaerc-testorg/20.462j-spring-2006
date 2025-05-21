@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides notes on topics such as theory of hydrogel swelling,
   physical hydrogels, ionic and hydrogen bonding in gels, association of amphiphilic
   block copolymers.
-file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/3cefc5ba3642a8b7d052e0139368c969_lec7_clean.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/3cefc5ba3642a8b7d052e0139368c969_lec7_clean.pdf
 file_size: 124934
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides the examination paper for this course.
-file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/412d6f313ba914792b2c8e41a93b42fa_exam1.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/412d6f313ba914792b2c8e41a93b42fa_exam1.pdf
 file_size: 173058
 file_type: application/pdf
 learning_resource_types:

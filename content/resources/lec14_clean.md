@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on topics like introduction to biomineralization
   and biomimectic inorganic/organic composites and Interfacial biomineralization.
-file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/6c75a4c27308316d085fb712c09ff368_lec14_clean.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/6c75a4c27308316d085fb712c09ff368_lec14_clean.pdf
 file_size: 1650664
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides notes on topics such as factors controlling polymer
   degradation rates, theory of solid polymer erosion, tailoring degradable polymer
   structure and composition.
-file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/5025ccfd025add60f6bba5322810e0cd_lec2_clean.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/5025ccfd025add60f6bba5322810e0cd_lec2_clean.pdf
 file_size: 250551
 file_type: application/pdf
 learning_resource_types:
