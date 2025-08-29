@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides notes on topics such as controlled release devices,
   types of controlled release devices, degradable materials in controlled release
   devices, physical chemistry principles in delivering small molecules vs. proteins.
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/e6445768a6a3bac4eb36d81165824249_lec3_annotated.pdf
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/e6445768a6a3bac4eb36d81165824249_lec3_annotated.pdf
 file_size: 382764
 file_type: application/pdf
 learning_resource_types:
