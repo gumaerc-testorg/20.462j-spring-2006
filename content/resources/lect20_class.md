@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on topics like basics of vaccine design
   and vaccine immune responses.
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/49fd83a29cb821f5eb0dcfd6edf9f568_lect20_class.pdf
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/49fd83a29cb821f5eb0dcfd6edf9f568_lect20_class.pdf
 file_size: 1397343
 file_type: application/pdf
 learning_resource_types:

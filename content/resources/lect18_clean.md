@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes for the topics like carriers and stealth
   particles.
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/49060ac02236ce0fa3b3b008e5501c3c_lect18_clean.pdf
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/49060ac02236ce0fa3b3b008e5501c3c_lect18_clean.pdf
 file_size: 4327343
 file_type: application/pdf
 learning_resource_types:
