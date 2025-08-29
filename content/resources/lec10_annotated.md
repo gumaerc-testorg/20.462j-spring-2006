@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides notes on topics such as applications of hydrogels:
   molecular imprinting, applications of hydrogels: glucose-sensitive drug delivery,
   kinetics of drug diffusion through hydrogels.'
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/4e647931333ddef560a1b945e72ba2b1_lec10_annotated.pdf
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/4e647931333ddef560a1b945e72ba2b1_lec10_annotated.pdf
 file_size: 1252107
 file_type: application/pdf
 learning_resource_types:

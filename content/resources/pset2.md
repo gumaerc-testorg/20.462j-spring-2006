@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides 3 problems on topics such as controlled release
   materials, Charlier release theory, simple osmotic pump.
-file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/3db386e0b20e5106617c19d33f4e3c52_pset2.pdf
+file: /ol-ocw-studio-app/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/3db386e0b20e5106617c19d33f4e3c52_pset2.pdf
 file_size: 188452
 file_type: application/pdf
 learning_resource_types:
